@@ -28,7 +28,7 @@ Im a pretty dumb developer (and gaming addict) who's worked on a projects in mul
 
 Here are the languages I've worked with in the past
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original-wordmark.svg" alt = "Python" title = "Python" width = "40" height = "40"/>][python] [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt = "Flutter" title = "Flutter" width = "40" height = "40"/>][flutter] [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt = "Golang" title = "Golang" width = "40" height = "40"/>][golang] [<img src="./recources/md.png" alt = "Markdown" title = "Markdown" height = "40">][markdown]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original-wordmark.svg" alt = "Python" title = "Python" width = "40" height = "40"/>][python] [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt = "Flutter" title = "Flutter" width = "40" height = "40"/>][flutter] [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt = "Golang" title = "Golang" width = "40" height = "40"/>][golang] 
 ### Tools
 
 Here are some tools I've worked with
