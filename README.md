@@ -1,6 +1,6 @@
-## Hey there, Im gjoe 👋
+## Hey there, Im xLekiz 👋
 
-Im a pretty dumb developer (and gaming addict) who's worked on a projects in multiple different languages, and I write code for [Spicy Lemon Studios](https://www.youtube.com/channel/UC2T_mGAu583_pyubsiNFQSQ?sub_confirmation=1 "Subscribe!") 
+
 
 <!--Image Link-->
 [vscode]: https://code.visualstudio.com/
