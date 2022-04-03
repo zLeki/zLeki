@@ -1,63 +1,92 @@
-## Hey there, Im xLekiz 👋
+# Angel Jaime
+
+<h2 align="center">About me</h2>
+
+```golang
+package main
+
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
+		"- 🔭 I’m currently working on":      "Learning more for my future",
+		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP --- Sharpening my Front End Skills for full stack web developing",
+		"- 👯 I’m looking to collaborate on": "Golang and Discord related projects",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"- 💬 Ask me about":                  "Go, Python, SQL, Software Design & Architecture, and Web-Dev",
+		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
+	}
+}
+```
+
+<h2 align="center">You can reach me at :alien:</h2>
+
+<p align="center">
+  <a href="https://dev.to/anhello">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Leki's dev profile" height="30" width="30">
+  </a>
 
 
+  <a href="https://stackoverflow.com/users/14410859/xleki?tab=profile">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Leki's Stack Overflow Profile" height="30" width="30">
+  </a>
 
-<!--Image Link-->
-[vscode]: https://code.visualstudio.com/
-[Visual Studio]: https://visualstudio.microsoft.com/
-[IntelliJ]: https://www.jetbrains.com/idea/
-[pdn]: https://www.getpaint.net/
-[unity]: https://unity.com/
-[python]: https://www.python.org
-[nodejs]: https://nodejs.org/en/
-[csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[html5]: https://html.spec.whatwg.org/
-[css]: https://www.w3.org/Style/CSS/Overview.en.html
-[java]: https://adoptopenjdk.net/
-[python]: https://www.python.org/
-[markdown]: https://www.markdownguide.org/
-[flutter]: https://flutter.dev/
-[golang]: https://golang.dev
-[mc]: https://www.minecraft.net/en-us
-[rl]: https://www.rocketleague.com/
-[fh4]: https://forzamotorsport.net/en-us/games/fh4
-[ms]: https://minesweeperonline.com/
-[fs2020]: https://www.flightsimulator.com/
+  <a href="https://meta.stackexchange.com/users/1174466/xleki?tab=profile">
+    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Leki's Stack Exchange Profile" height="30" width="30">
+  </a>
 
-### Languages
+  <a href="https://stackshare.io/zleki">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Leki's StackShare Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://gitlab.com/zLeki">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://medium.com/@benhatesdat">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Leki's Medium Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UC0oBLks6WWr0mFZHPB_yR0Q">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Leki's YouTube Channel" height="30" width="30">
+  </a>
+</p>
 
-Here are the languages I've worked with in the past
+<h2 align="center">My stack :man_technologist:</h2>
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original-wordmark.svg" alt = "Python" title = "Python" width = "40" height = "40"/>][python] [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt = "Flutter" title = "Flutter" width = "40" height = "40"/>][flutter] [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt = "Golang" title = "Golang" width = "40" height = "40"/>][golang][<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "Java" title="Java" width="40" height="40"/>][java]
-### Tools
-!(gopher)[https://imgur.com/RxeuHk6]
-Here are some tools I've worked with
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">
+  <a href="https://stackshare.io/zleki/my-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  </a>
+</p>
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt = "Vscode" title = "Visual Studio Code" height = "40">][vscode] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg" alt = "Visual Studio" title = "Visual Studio" height = "40">][Visual Studio] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original.svg" alt = "Intell IJ Idea" title = "Intell IJ Idea" height = "40">][IntelliJ]
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{zLeki}/count.svg" alt="zLeki :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLeki&langs_count=10&theme=tokyonight&layout=compact" alt="zLeki :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zLeki&show_icons=true&theme=synthwave" alt="zLeki :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
-### Github Stats
-
-![Gjoes' Github Stats](https://github-readme-stats.vercel.app/api?username=zLeki&theme=vue&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zLeki&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-<!--
-**gjoedev/gjoedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
