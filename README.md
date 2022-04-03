@@ -25,7 +25,7 @@ func GetBio() Bio {
 		"- 👯 I’m looking to collaborate on": "Golang and Discord related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Go, Python, SQL, Software Design & Architecture, and Web-Dev",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
+		"- 📫 How to reach me:":              "https://github.com/zLeki#you-can-reach-me-at-alien",
 	}
 }
 ```
