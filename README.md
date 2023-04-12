@@ -19,7 +19,6 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of lazy-programming-student-antisocial hybrid",
 		"- 🔭 I’m currently working on":      "Learning more for my future",
 		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP --- Sharpening my Front End Skills for full stack web developing",
 		"- 👯 I’m looking to collaborate on": "Golang and Discord related projects",
