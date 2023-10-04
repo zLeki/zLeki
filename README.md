@@ -1,91 +1,50 @@
-# Leki
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2 align="center">About me</h2>
+<h2> Hey there! I'm Aditya.</h2>
 
-```golang
-package main
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-import (
-	"fmt"
-)
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Computer Science and Finance @ CMW High School.
+- 💼 &nbsp; Working on automating the financial markets.
+- 🌱 &nbsp; Learning more about Artificial Intelligence and Networking.
 
-type Bio map[string]string
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![GoLand](https://img.shields.io/badge/-GoLand-333333?style=flat&logo=goland)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+- 🖥 &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![macOS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=macos)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
-func GetBio() Bio {
-	return Bio{
-		"- 🔭 I’m currently working on":      "Learning more for my future",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP --- Sharpening my Front End Skills for full stack web developing",
-		"- 👯 I’m looking to collaborate on": "Golang and Discord related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Go, Python, SQL, Software Design & Architecture, and Web-Dev",
-		"- 📫 How to reach me:":              "https://github.com/zLeki#you-can-reach-me-at-alien",
-	}
-}
-```
+<br/>
 
-<h2 align="center">You can reach me at :alien:</h2>
+<a href="https://github.com/zLeki">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zLeki&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLeki&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://dev.to/zleki">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Leki's dev profile" height="30" width="30">
-  </a>
-
-
-  <a href="https://stackoverflow.com/users/14410859/xleki?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Leki's Stack Overflow Profile" height="30" width="30">
-  </a>
-
-  <a href="https://meta.stackexchange.com/users/1174466/xleki?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Leki's Stack Exchange Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackshare.io/zleki">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Leki's StackShare Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://gitlab.com/zLeki">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://medium.com/@benhatesdat">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Leki's Medium Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UC0oBLks6WWr0mFZHPB_yR0Q">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Leki's YouTube Channel" height="30" width="30">
-  </a>
-</p>
-
-<h2 align="center">My stack :man_technologist:</h2>
-
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/zleki/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
-</p>
-
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{zLeki}/count.svg" alt="zLeki :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLeki&langs_count=10&theme=tokyonight&layout=compact" alt="zLeki :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zLeki&show_icons=true&theme=synthwave" alt="zLeki :: Profile Stats" /></p>
-
-<p align="center"><img src="https://i.imgur.com/RxeuHk6.gif" alt="gopher" height="300" width="300"></p>
-
-
----
+<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.lekech.com-blue?style=flat-square&logo=google-chrome"></a>
